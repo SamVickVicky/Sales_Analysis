@@ -49,5 +49,5 @@ All charts are saved inside the `Sales_trend_visualizations/` folder:
 This project demonstrates **full-stack data wrangling and reporting skills** at a professional level!
 
 ## 📢 Done professionally by:
-**[Your Name Here]**  
-(Data Analyst / Data Engineer)
+**Vijay Singh Parmar**  
+    Data Analyst
